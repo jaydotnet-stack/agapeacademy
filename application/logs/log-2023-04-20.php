@@ -1,0 +1,20 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-04-20 07:58:32 --> 404 Page Not Found --> clients/images
+ERROR - 2023-04-20 07:58:50 --> 404 Page Not Found --> resources
+ERROR - 2023-04-20 07:58:50 --> 404 Page Not Found --> resources
+ERROR - 2023-04-20 07:59:18 --> 404 Page Not Found --> clients/images
+ERROR - 2023-04-20 08:00:35 --> 404 Page Not Found --> clients/images
+ERROR - 2023-04-20 08:00:44 --> 404 Page Not Found --> resources
+ERROR - 2023-04-20 10:52:59 --> 404 Page Not Found --> resources
+ERROR - 2023-04-20 10:52:59 --> 404 Page Not Found --> resources
+ERROR - 2023-04-20 10:57:08 --> 404 Page Not Found --> resources
+ERROR - 2023-04-20 10:57:08 --> 404 Page Not Found --> resources
+ERROR - 2023-04-20 14:21:25 --> 404 Page Not Found --> resources
+ERROR - 2023-04-20 14:21:25 --> 404 Page Not Found --> resources
+ERROR - 2023-04-20 14:22:56 --> 404 Page Not Found --> resources
+ERROR - 2023-04-20 14:22:56 --> 404 Page Not Found --> resources
+ERROR - 2023-04-20 14:24:34 --> 404 Page Not Found --> resources
+ERROR - 2023-04-20 14:24:34 --> 404 Page Not Found --> resources
+ERROR - 2023-04-20 15:28:33 --> 404 Page Not Found --> resources
+ERROR - 2023-04-20 15:28:33 --> 404 Page Not Found --> resources

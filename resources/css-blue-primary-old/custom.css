@@ -1,0 +1,180 @@
+.default-color{
+	color:#117fc8;
+}
+
+#application-form-heading{
+	font-size:20px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#application-form-session{
+	font-size:25px;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;	
+	background-color:#117fc8;
+	color:white;
+}
+
+#personal-details-section{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	font-style:bold;
+	float:left;
+	margin-bottom:5px;
+}
+
+.religion-div{
+	padding-left:0px;
+}
+
+#religion{
+	color:red;
+	float:left;
+	font-size:12px;
+}
+
+
+.passport-container{
+	/* margin-left:500px; */
+	/* border:1px solid black; */
+}
+
+.passport-container p{
+	/* color:red;
+	border:1px solid blue;
+	height:120px;
+	width:120px;
+	border-radius:10px;
+	text-align:center; */
+	
+	/* margin:20px 0px 10px 90px; */
+}
+
+.passport-container-2 p{
+	/* color:red;
+	border:1px solid blue;
+	height:120px;
+	width:120px;
+	border-radius:10px;
+	text-align:center;
+	margin:20px 0px 10px 60px;
+	*/
+}
+
+
+
+
+
+
+
+
+
+
+.tricom-spotlight-section {
+    background: #dd1919;
+    width: 100%;
+    padding-bottom: 136px;
+}
+
+
+
+.tricom-spotlight-section-container {
+    padding-inline: 130px;
+}
+
+.application-form-top {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 64px;
+}
+
+.tricom-spotlight-top {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 64px;
+}
+
+.application-form-logo {
+    display: flex;
+    flex-direction: column;
+}
+
+.tricom-spotlight-preheader {
+    display: flex;
+    flex-direction: column;
+}
+
+.tricom-spotlight-preheader-top {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    margin-bottom: 16px;
+}
+
+.tricom-spotlight-preheader h2 {
+    width: 536px;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 52px;
+
+}
+
+.tricom-spotlight-bottom {
+    margin-inline: auto;
+}
+
+.tricom-spotlight-cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.tricom-spotlight-cards .card {
+    width: 389px;
+    height: 485px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+}
+
+.tricom-spotlight-cards .card .card-number {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 150%;
+}
+
+.tricom-spotlight-cards .card .card-title {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 150%;
+}
+
+.tricom-spotlight-summary {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.tricom-spotlight-summary-text {
+    padding-bottom: 24px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 150%;
+}
+
+.tricom-spotlight-summary button {
+    padding: 8px 24px;
+    width: max-content;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    background: var(--main-color);
+    border: none;
+    color: #fff;
+}
+
+.tricom-spotlight-summary button img {
+    margin-left: 8px;
+    color: #fff;
+}

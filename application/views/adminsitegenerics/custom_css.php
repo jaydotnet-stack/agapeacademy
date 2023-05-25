@@ -1,0 +1,1 @@
+<script src="<?php echo base_url() . 'adminresources/custom_assets/CSS.php'; ?>"></script>	
